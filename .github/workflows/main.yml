@@ -1,4 +1,4 @@
-name: CI/CD - Thomas
+name: CI-CD - Thomas 
 
 on:
   push:

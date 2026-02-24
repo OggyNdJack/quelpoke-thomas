@@ -2,9 +2,9 @@ name: CI-CD - Thomas
 
 on:
   push:
-    branches: [master]
+    branches: [Master]
   pull_request:
-    branches: [master]
+    branches: [Master]
     types: [opened, synchronize, reopened]
 
 jobs:
